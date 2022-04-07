@@ -1,6 +1,6 @@
 # Operating_Systems_Project_Beykoz_University
 
-- Operating System Project - 
+Operating System Project  
 
 Simulation some aspects of Operating Systems
 
