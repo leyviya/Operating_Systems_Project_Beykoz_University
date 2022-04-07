@@ -1,8 +1,6 @@
 # Operating_Systems_Project_Beykoz_University
 
-Operating System Project  
-
-Simulation some aspects of Operating Systems
+Operating System Project - Simulation some aspects of Operating Systems
 
 Lectured by Prof. Dr. Ercan SOLAK
 
